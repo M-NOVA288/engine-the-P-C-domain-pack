@@ -1,0 +1,5 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 7205 Industrial Blvd | 1,190,000 | $240,000 | 180,000 | Masonry NC | 1997 | No | 03
+2 | 2835 Main St | 2,690,000 | $600,000 | $690,000 | Frame | 1984 | No | 5

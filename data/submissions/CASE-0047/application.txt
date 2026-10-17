@@ -1,0 +1,15 @@
+COMMERCIAL INSURANCE APPLICATION (ACORD 125 FORMAT - SYNTHETIC)
+Agency: Southwest Risk Partners
+Producer Code: 75270
+
+Named Insured: Pecos Fabrication Corp.
+Mailing Address: 1127 Market St, Tulsa
+Mailing State: OK
+NAICS Code: 531120
+Years in Business: 3
+Revenues: $6,560,000
+Employees: 32
+Lines Requested: Commercial Property | General Liability
+Requested Effective Date: 2027-01-01
+
+Remarks: Renewal marketing, incumbent non-renewing.

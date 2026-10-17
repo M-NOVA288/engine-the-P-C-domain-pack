@@ -1,0 +1,4 @@
+STATEMENT OF VALUES
+Loc # | Location | Building | BPP | Business Income | Const | Yr Built | Sprinkler | PC
+----------------------------------------
+1 | 1195 Main St | 2,700K | 1,010,000 | 500K | Non-combustible | 1954 | 100% | 05

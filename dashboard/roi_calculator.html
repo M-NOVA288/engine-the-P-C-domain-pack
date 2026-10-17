@@ -1,0 +1,192 @@
+<title>Underwriting Copilot ROI</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: an underwriting worksheet. Inputs on the left as a ruled form, results on the right as a ledger. */
+:root {
+  --bg: #f5f6f4;
+  --panel: #ffffff;
+  --ink: #1b2430;
+  --muted: #5c6773;
+  --rule: #d9ddd6;
+  --accent: #1f5c4a;        /* ledger green */
+  --accent-soft: #e3eee9;
+  --warn: #9a5b12;
+  --display: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #12171c; --panel: #192027; --ink: #e6e9e4; --muted: #9aa5ae; --rule: #2c353d;
+    --accent: #7cc5a9; --accent-soft: #1d3029; --warn: #e0a95c; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #12171c; --panel: #192027; --ink: #e6e9e4; --muted: #9aa5ae; --rule: #2c353d;
+  --accent: #7cc5a9; --accent-soft: #1d3029; --warn: #e0a95c; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--ink); font-family: var(--body); font-size: 15px; line-height: 1.5;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 28px 40px;
+}
+.wrap { max-width: 1040px; margin: 0 auto; display: grid; gap: 24px; }
+header { display: grid; gap: 6px; max-width: 68ch; }
+.eyebrow { font: 500 12px/1 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
+h1 { font: 600 clamp(26px, 4vw, 36px)/1.15 var(--display); margin: 0; text-wrap: balance; }
+header p { margin: 0; color: var(--muted); }
+.grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.1fr); gap: 24px; align-items: start; }
+@media (max-width: 760px) { .grid { grid-template-columns: minmax(0, 1fr); } }
+section { background: var(--panel); border: 1px solid var(--rule); border-radius: 6px; padding: 20px; min-width: 0; }
+h2 { font: 600 13px/1 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin: 0 0 14px; }
+fieldset { border: 0; padding: 0; margin: 0 0 18px; display: grid; gap: 14px; }
+legend { font-weight: 600; font-size: 14px; margin-bottom: 10px; padding: 0; }
+.field { display: grid; gap: 6px; }
+.field .top { display: flex; justify-content: space-between; gap: 12px; align-items: baseline; }
+label { font-size: 14px; }
+.val { font: 500 14px var(--mono); font-variant-numeric: tabular-nums; color: var(--accent); white-space: nowrap; }
+.hint { font-size: 12.5px; color: var(--muted); }
+input[type=range] { width: 100%; accent-color: var(--accent); }
+input[type=range]:focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; }
+.headline { display: grid; gap: 4px; padding-bottom: 16px; border-bottom: 1px solid var(--rule); margin-bottom: 4px; }
+.headline .big { font: 600 clamp(34px, 6vw, 46px)/1.05 var(--display); font-variant-numeric: tabular-nums; color: var(--accent); }
+.headline .sub { color: var(--muted); font-size: 14px; }
+.ledger { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; }
+.ledger td { padding: 10px 0; border-bottom: 1px solid var(--rule); vertical-align: baseline; }
+.ledger td:last-child { text-align: right; font-family: var(--mono); white-space: nowrap; padding-left: 12px; }
+.ledger tr.total td { font-weight: 600; border-bottom: 2px solid var(--ink); }
+.neg { color: var(--warn); }
+.cap { margin-top: 18px; display: grid; gap: 10px; }
+.bar-row { display: grid; grid-template-columns: 76px minmax(0, 1fr) 72px; gap: 10px; align-items: center; font-size: 13px; }
+.bar-track { height: 14px; background: var(--accent-soft); border-radius: 3px; overflow: hidden; }
+.bar { height: 100%; background: var(--accent); border-radius: 3px; transition: width .25s ease; }
+.bar.manual { background: var(--muted); }
+.bar-row .n { font-family: var(--mono); text-align: right; font-variant-numeric: tabular-nums; }
+.note { font-size: 13px; color: var(--muted); border-top: 1px solid var(--rule); padding-top: 14px; margin-top: 18px; max-width: 68ch; }
+.note strong { color: var(--ink); font-weight: 600; }
+button.reset { font: 500 13px var(--body); color: var(--accent); background: none; border: 1px solid var(--rule); border-radius: 4px; padding: 6px 12px; cursor: pointer; }
+button.reset:hover { border-color: var(--accent); }
+button.reset:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+@media (prefers-reduced-motion: reduce) { .bar { transition: none; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Risk Decision Copilot · Business case</div>
+    <h1>What an underwriting copilot saves your team</h1>
+    <p>Set the inputs to match your team. Every assumption is visible and editable. The example values below are illustrative, not measured from any carrier.</p>
+  </header>
+
+  <div class="grid">
+    <section aria-labelledby="in-h">
+      <h2 id="in-h">Inputs</h2>
+      <form id="f" novalidate>
+        <fieldset>
+          <legend>Team and volume</legend>
+          <div class="field"><div class="top"><label for="uw">Underwriters</label><span class="val" id="uw-v"></span></div>
+            <input type="range" id="uw" min="1" max="50" step="1" value="8"></div>
+          <div class="field"><div class="top"><label for="subs">Submissions per month</label><span class="val" id="subs-v"></span></div>
+            <input type="range" id="subs" min="50" max="5000" step="50" value="600"></div>
+          <div class="field"><div class="top"><label for="sal">Underwriter salary</label><span class="val" id="sal-v"></span></div>
+            <input type="range" id="sal" min="60000" max="200000" step="5000" value="110000">
+            <span class="hint">Benefits and overhead add 30% on top.</span></div>
+        </fieldset>
+        <fieldset>
+          <legend>Time per submission</legend>
+          <div class="field"><div class="top"><label for="man">Manual triage and memo</label><span class="val" id="man-v"></span></div>
+            <input type="range" id="man" min="10" max="120" step="5" value="45">
+            <span class="hint">Time it takes today to read the submission, check appetite and write the memo. Measure this on your own team.</span></div>
+          <div class="field"><div class="top"><label for="asst">Review of a clear copilot memo</label><span class="val" id="asst-v"></span></div>
+            <input type="range" id="asst" min="2" max="60" step="1" value="12"></div>
+          <div class="field"><div class="top"><label for="refm">Review of a referred case</label><span class="val" id="refm-v"></span></div>
+            <input type="range" id="refm" min="5" max="90" step="5" value="30"></div>
+          <div class="field"><div class="top"><label for="rr">Share of cases referred</label><span class="val" id="rr-v"></span></div>
+            <input type="range" id="rr" min="0" max="100" step="1" value="35">
+            <span class="hint">The 60-case eval set refers 53% because it is built from edge cases. A typical book refers fewer.</span></div>
+        </fieldset>
+        <fieldset>
+          <legend>Cost to run</legend>
+          <div class="field"><div class="top"><label for="cost">Cloud, model usage and upkeep per year</label><span class="val" id="cost-v"></span></div>
+            <input type="range" id="cost" min="0" max="300000" step="5000" value="60000"></div>
+        </fieldset>
+        <button type="button" class="reset" id="reset">Reset to example values</button>
+      </form>
+    </section>
+
+    <section aria-labelledby="out-h" aria-live="polite">
+      <h2 id="out-h">Results</h2>
+      <div class="headline">
+        <span class="big" id="net"></span>
+        <span class="sub">net savings per year, after running costs</span>
+      </div>
+      <table class="ledger">
+        <tbody>
+          <tr><td>Loaded cost per underwriter hour</td><td id="hourly"></td></tr>
+          <tr><td>Average review time with copilot</td><td id="avg"></td></tr>
+          <tr><td>Time saved per submission</td><td id="saved"></td></tr>
+          <tr><td>Underwriter hours freed per month</td><td id="hours"></td></tr>
+          <tr><td>Full-time equivalents freed</td><td id="fte"></td></tr>
+          <tr><td>Gross labor savings per year</td><td id="gross"></td></tr>
+          <tr><td>Cost to run per year</td><td id="costout"></td></tr>
+          <tr class="total"><td>Net savings per year</td><td id="net2"></td></tr>
+          <tr><td>Return on running cost</td><td id="roi"></td></tr>
+        </tbody>
+      </table>
+
+      <div class="cap" aria-label="Submissions each underwriter can handle per day">
+        <h2 style="margin:0">Submissions per underwriter per day</h2>
+        <div class="bar-row"><span>Manual</span><div class="bar-track"><div class="bar manual" id="b-man"></div></div><span class="n" id="n-man"></span></div>
+        <div class="bar-row"><span>Copilot</span><div class="bar-track"><div class="bar" id="b-asst"></div></div><span class="n" id="n-asst"></span></div>
+      </div>
+
+      <p class="note"><strong>How this is calculated.</strong> Average review time with the copilot blends clear memos and referred cases by the referral share. Hours freed are submissions times minutes saved. Capacity assumes 6.5 productive hours a day and 21 workdays a month. Freed time is capacity to quote more business, not necessarily headcount reduction.</p>
+    </section>
+  </div>
+</div>
+
+<script>
+(function () {
+  const ids = ["uw", "subs", "sal", "man", "asst", "refm", "rr", "cost"];
+  const el = Object.fromEntries(ids.map(i => [i, document.getElementById(i)]));
+  const defaults = Object.fromEntries(ids.map(i => [i, el[i].value]));
+  const usd = n => (n < 0 ? "−$" : "$") + Math.abs(Math.round(n)).toLocaleString("en-US");
+  const fmt = (n, d = 0) => n.toLocaleString("en-US", { minimumFractionDigits: d, maximumFractionDigits: d });
+  const set = (id, t) => { document.getElementById(id).textContent = t; };
+
+  function compute(v) {
+    const hourly = v.sal * 1.3 / 2080;
+    const rr = v.rr / 100;
+    const avg = rr * v.refm + (1 - rr) * v.asst;
+    const saved = Math.max(v.man - avg, 0);
+    const hours = v.subs * saved / 60;
+    const gross = hours * 12 * hourly;
+    return { hourly, avg, saved, hours, fte: hours / (6.5 * 21), gross, net: gross - v.cost,
+             roi: v.cost ? gross / v.cost : null, capMan: 6.5 * 60 / v.man, capAsst: 6.5 * 60 / avg };
+  }
+
+  function render() {
+    const v = Object.fromEntries(ids.map(i => [i, Number(el[i].value)]));
+    set("uw-v", fmt(v.uw)); set("subs-v", fmt(v.subs)); set("sal-v", usd(v.sal));
+    set("man-v", v.man + " min"); set("asst-v", v.asst + " min"); set("refm-v", v.refm + " min");
+    set("rr-v", v.rr + "%"); set("cost-v", usd(v.cost));
+    const r = compute(v);
+    set("net", usd(r.net)); set("net2", usd(r.net));
+    document.getElementById("net").classList.toggle("neg", r.net < 0);
+    document.getElementById("net2").classList.toggle("neg", r.net < 0);
+    set("hourly", usd(r.hourly)); set("avg", fmt(r.avg, 1) + " min"); set("saved", fmt(r.saved, 1) + " min");
+    set("hours", fmt(r.hours, 0)); set("fte", fmt(r.fte, 2)); set("gross", usd(r.gross));
+    set("costout", usd(v.cost)); set("roi", r.roi === null ? "n/a" : fmt(r.roi, 1) + "×");
+    const max = Math.max(r.capMan, r.capAsst, 1);
+    document.getElementById("b-man").style.width = (100 * r.capMan / max) + "%";
+    document.getElementById("b-asst").style.width = (100 * r.capAsst / max) + "%";
+    set("n-man", fmt(r.capMan, 1)); set("n-asst", fmt(r.capAsst, 1));
+  }
+
+  ids.forEach(i => el[i].addEventListener("input", render));
+  document.getElementById("reset").addEventListener("click", () => { ids.forEach(i => { el[i].value = defaults[i]; }); render(); });
+  render();
+})();
+</script>

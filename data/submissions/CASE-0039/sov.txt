@@ -1,0 +1,4 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 8929 Commerce Dr | 2.48M | $990,000 | 600,000 | Frame | 1967 | No | Class 6

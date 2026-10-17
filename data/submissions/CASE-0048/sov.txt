@@ -1,0 +1,6 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 1407 Main St | 2,440,000 | 520,000 | $440,000 | Frame | 1980 | No | 6
+2 | 3046 Ranch Rd | $2.12 million | 350K | $450,000 | Non-combustible | 1959 | 100% | PC 2
+3 | 4239 Airport Way | $7.05 million | $3.19 million | 1,340,000 | Frame | 1971 | Yes | Class 6

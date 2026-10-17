@@ -1,0 +1,13 @@
+LOSS RUN REPORT - Carrier: Demo Indemnity
+Valued as of: 2026-09-30
+
+Policy Year | Earned Premium | Claims | Paid | Reserves | Incurred
+----------------------------------------
+2024-2025 | $72,900 | 1 | 19,600 | 7,900 | 27,500
+2025-2026 | 75,400 | 1 | 8,100 | 1,700 | 9,800
+
+Claim Detail
+Date of Loss | Cause | Incurred | Status
+----------------------------------------
+2024-09-26 | Products liability | 27,500 | Closed
+2025-11-09 | Theft | 9,800 | Closed

@@ -1,0 +1,15 @@
+COMMERCIAL INSURANCE APPLICATION (ACORD 125 FORMAT - SYNTHETIC)
+Agency: Heartland Brokerage
+Producer Code: 55044
+
+Named Insured: Sandia Supply Inc.
+Mailing Address: 4978 Commerce Dr, Albuquerque
+State of Domicile: NM
+Primary NAICS: 211120
+Date Business Started: 1992
+Gross Sales: 5.82M
+Number of Employees: 43
+Lines Requested: Commercial Property | General Liability
+Requested Effective Date: 2027-01-01
+
+Remarks: Renewal marketing, incumbent non-renewing.

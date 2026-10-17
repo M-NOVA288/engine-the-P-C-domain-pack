@@ -1,0 +1,15 @@
+COMMERCIAL INSURANCE APPLICATION (ACORD 125 FORMAT - SYNTHETIC)
+Agency: Tri-State Insurance Group
+Producer Code: 67937
+
+Named Insured: Cedar Group Inc.
+Mailing Address: 8917 Airport Way, Albuquerque
+Mailing State: NM
+NAICS Code: 325998
+Years in Business: 34
+Revenues: 2,340,000
+Number of Employees: 12
+Lines Requested: Commercial Property | General Liability
+Requested Effective Date: 2027-01-01
+
+Remarks: Renewal marketing, incumbent non-renewing.

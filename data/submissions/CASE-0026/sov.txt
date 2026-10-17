@@ -1,0 +1,5 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 6840 Main St | 3,240,000 | $1.61 million | $600,000 | Masonry NC | 1993 | Y | 06
+2 | 6613 Airport Way | 1,440,000 | $600,000 | 200,000 | Non-combustible | 2003 | 100% | 9

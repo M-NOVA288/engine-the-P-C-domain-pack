@@ -1,0 +1,5 @@
+STATEMENT OF VALUES
+Loc # | Location | Building | BPP | Business Income | Const | Yr Built | Sprinkler | PC
+----------------------------------------
+1 | 8328 Oak Ave | $590,000 | $210,000 | $100,000 | Fire Resistive | 1933 | None | PC 6
+TOTAL |  | 590,000 | 210,000 | 100,000 |  |  |  | 

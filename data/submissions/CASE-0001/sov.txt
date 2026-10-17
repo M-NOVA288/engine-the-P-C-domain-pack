@@ -1,0 +1,4 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 1094 Market St | $1.92 million | $320,000 | 300K | Joisted Masonry | 1930 | No | Class 2

@@ -1,0 +1,15 @@
+COMMERCIAL INSURANCE APPLICATION (ACORD 125 FORMAT - SYNTHETIC)
+Agency: Tri-State Insurance Group
+Producer Code: 35243
+
+Applicant Name: Arbor Holdings LLC
+Mailing Address: 9313 Airport Way, Albuquerque
+Mailing State: NM
+Primary NAICS: 211120
+Years in Business: 28
+Revenues: 780K
+Number of Employees: 6
+Lines Requested: Commercial Property | General Liability
+Requested Effective Date: 2027-01-01
+
+Remarks: Shopping for better terms; clean account per broker.

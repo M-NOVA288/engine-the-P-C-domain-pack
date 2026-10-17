@@ -1,0 +1,5 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 846 Main St | 10,790K | 2,040K | 2,410,000 | Non-combustible | 2007 | 100% | 03
+TOTAL |  | 10,790,000 | 2,040,000 | 2,410,000 |  |  |  | 

@@ -1,0 +1,7 @@
+STATEMENT OF VALUES
+Loc # | Location | Building | BPP | Business Income | Const | Yr Built | Sprinkler | PC
+----------------------------------------
+1 | 7264 Oak Ave | 460,000 | $100,000 | $100,000 | Masonry NC | 2005 | N | Class 10
+2 | 5314 Airport Way | 600K | 250K | $60,000 | Masonry NC | 2011 | None | Class 6
+3 | 5255 Ranch Rd | 2,110,000 | 450,000 | 210K | Fire Resistive | 1966 | N | 04
+4 | 2279 Main St | 1.66M | $650,000 | 380,000 | Masonry NC | 1926 | No | 3

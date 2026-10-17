@@ -1,0 +1,7 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 8206 Oak Ave | 2.97M | 600,000 | $710,000 | Frame | 1987 | None | PC 8
+2 | 438 Industrial Blvd | 1,550,000 | $520,000 | $140,000 | Fire Resistive | 2022 | Y | PC 8
+3 | 1782 Commerce Dr | $1.39 million | $300,000 | 70,000 | Masonry NC | 1993 | Y | 4
+4 | 3296 Commerce Dr | 1,000,000 | $410,000 | $80,000 | Frame | 2009 | No | PC 3

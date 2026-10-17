@@ -1,0 +1,10 @@
+{
+  "_comment": "Release gate. CI fails the build if any metric falls outside these bounds.",
+  "decision_accuracy_min": 0.90,
+  "unsafe_accepts_max": 0,
+  "wrongful_declines_max": 0,
+  "field_accuracy_min": 0.95,
+  "retrieval_hit_at_3_min": 0.95,
+  "citation_coverage_min": 1.0,
+  "consistency_min": 1.0
+}

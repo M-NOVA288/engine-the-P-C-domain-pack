@@ -1,0 +1,6 @@
+STATEMENT OF VALUES
+Loc # | Location | Building | BPP | Business Income | Const | Yr Built | Sprinkler | PC
+----------------------------------------
+1 | 1085 Airport Way | 10.17M | 2.65M | $930,000 | Fire Resistive | 2007 | Yes | PC 10
+2 | 9869 Market St | 7,570,000 | $2,150,000 | 1,260,000 | Frame | 2021 | 100% | Class 3
+TOTAL |  | 17,740,000 | 4,800,000 | 2,190,000 |  |  |  | 

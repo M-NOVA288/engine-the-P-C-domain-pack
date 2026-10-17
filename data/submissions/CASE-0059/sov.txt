@@ -1,0 +1,6 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 753 Market St | 1,710K | 470K | 310K | Frame | 1959 | N | PC 3
+2 | 9881 Industrial Blvd | $1.36 million | 440,000 | 280,000 | Fire Resistive | 1976 | Y | PC 10
+TOTAL |  | 3,070,000 | 910,000 | 590,000 |  |  |  | 

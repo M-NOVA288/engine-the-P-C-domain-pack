@@ -1,0 +1,7 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 3867 Industrial Blvd | $3.41 million | $1,340,000 | 510,000 | Masonry NC | 2007 | Y | 6
+2 | 1451 Main St | $2,750,000 | $570,000 | 290K | Fire Resistive | 1977 | No | 4
+3 | 8657 Commerce Dr | $1.65 million | $310,000 | 320K | Non-combustible | 1996 | None | Class 4
+4 | 4335 Commerce Dr | 860,000 | 320,000 | $50,000 | Non-combustible | 1970 | N | 02

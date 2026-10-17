@@ -1,0 +1,17 @@
+LOSS RUN REPORT - Carrier: Synthetic Mutual
+Valued as of: 2026-09-30
+
+Policy Year | Earned Premium | Claims | Paid | Reserves | Incurred
+----------------------------------------
+2021-2022 | 44,500 | 1 | 9,900 | 5,200 | 15,100
+2022-2023 | $46,700 | 0 | 0 | 0 | 0
+2023-2024 | $46,400 | 0 | 0 | 0 | 0
+2024-2025 | 48,400 | 0 | 0 | 0 | 0
+2025-2026 | $52,800 | 2 | 67,900 | 39,600 | 107,500
+
+Claim Detail
+Date of Loss | Cause | Incurred | Status
+----------------------------------------
+2021-08-14 | Fire | 15,100 | Open
+2025-11-17 | Vehicle impact | 28,100 | Closed
+2026-08-06 | Water damage | 79,400 | Closed

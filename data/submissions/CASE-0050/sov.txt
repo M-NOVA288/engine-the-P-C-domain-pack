@@ -1,0 +1,4 @@
+STATEMENT OF VALUES
+Loc # | Location | Building | BPP | Business Income | Const | Yr Built | Sprinkler | PC
+----------------------------------------
+1 | 1997 Main St | 2,120K | $530,000 | 140K | Joisted Masonry | 1933 | Y | Class 4

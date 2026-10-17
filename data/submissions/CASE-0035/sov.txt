@@ -1,0 +1,4 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 8335 Market St | $1.34 million | 460,000 | $160,000 | Non-combustible | 1991 | Yes | Class 5

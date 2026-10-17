@@ -1,0 +1,6 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 9261 Oak Ave | 2,910,000 | $650,000 | 470,000 | Joisted Masonry | 2015 | N | Class 3
+2 | 7659 Main St | 5,160,000 | 1,370,000 | $970,000 | Frame | 2020 | 100% | 8
+3 | 6866 Market St | $5,390,000 | 1,190K | $660,000 | Masonry NC | 2004 | No | 4

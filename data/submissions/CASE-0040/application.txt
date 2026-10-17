@@ -1,0 +1,14 @@
+COMMERCIAL INSURANCE APPLICATION (ACORD 125 FORMAT - SYNTHETIC)
+Agency: Southwest Risk Partners
+Producer Code: 27956
+
+Applicant Name: Pecos Bakery LP
+Mailing Address: 9869 Oak Ave, Tulsa
+Mailing State: OK
+NAICS Code: 722511
+Year Established: 2004
+Number of Employees: 330
+Lines Requested: Commercial Property | General Liability
+Requested Effective Date: 2027-01-01
+
+Remarks: Renewal marketing, incumbent non-renewing.

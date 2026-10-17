@@ -1,0 +1,6 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 6729 Main St | $810,000 | $250,000 | 190K | Joisted Masonry | 2021 | Y | 03
+2 | 2659 Oak Ave | 1,030,000 | $360,000 | $90,000 | Fire Resistive | 1976 | None | PC 4
+3 | 9349 Airport Way | $1,090,000 | $460,000 | 110K | Masonry NC | 1967 | None | 02

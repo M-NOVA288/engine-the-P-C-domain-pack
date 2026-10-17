@@ -1,0 +1,8 @@
+STATEMENT OF VALUES
+Loc # | Location | Building | BPP | Business Income | Const | Yr Built | Sprinkler | PC
+----------------------------------------
+1 | 9254 Airport Way | 2,710K | 1,220,000 | $230,000 | Masonry NC | 1976 | No | 02
+2 | 6580 Ranch Rd | $1.15 million | 330,000 | $150,000 | Masonry NC | 2003 | No | 4
+3 | 777 Ranch Rd | 1.88M | $870,000 | $100,000 | Fire Resistive | 2016 | 100% | 05
+4 | 4450 Industrial Blvd | 3,150,000 | 1.51M | 750,000 | Non-combustible | 1945 | None | Class 1
+TOTAL |  | 8,890,000 | 3,930,000 | 1,230,000 |  |  |  | 

@@ -1,0 +1,8 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 4345 Ranch Rd | $550,000 | $280,000 | $150,000 | Frame | 1968 | 100% | PC 10
+2 | 8758 Main St | $2.35 million | $1,330,000 | 240K | Non-combustible | 2007 | Yes | PC 10
+3 | 5739 Airport Way | 860K | 460K | $210,000 | Masonry NC | 1946 | Yes | 8
+4 | 1866 Market St | 3,090,000 | 500,000 | 400K | Frame | 1980 | 100% | 10
+TOTAL |  | 6,850,000 | 2,570,000 | 1,000,000 |  |  |  | 

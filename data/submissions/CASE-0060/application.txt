@@ -1,0 +1,15 @@
+COMMERCIAL INSURANCE APPLICATION (ACORD 125 FORMAT - SYNTHETIC)
+Agency: Tri-State Insurance Group
+Producer Code: 44378
+
+Named Insured: Cimarron Partners Inc.
+Mailing Address: 2696 Ranch Rd, Wichita
+State of Domicile: KS
+Primary NAICS: 332312
+Year Established: 2013
+Gross Sales: 3,420,000
+Employees: 36
+Lines Requested: Commercial Property | General Liability
+Requested Effective Date: 2027-01-01
+
+Remarks: New venture expansion, see attached SOV.

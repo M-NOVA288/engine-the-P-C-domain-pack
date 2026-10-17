@@ -1,0 +1,5 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 4280 Ranch Rd | 9,780K | $3,800,000 | 2.20M | Joisted Masonry | 2012 | Yes | 06
+TOTAL |  | 9,780,000 | 3,800,000 | 2,200,000 |  |  |  | 

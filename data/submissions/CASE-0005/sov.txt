@@ -1,0 +1,5 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 4368 Main St | 3.17M | $700,000 | 730,000 | Frame | 1969 | Yes | 2
+2 | 7534 Main St | $1.57 million | $580,000 | 470K | Masonry NC | 1970 | Yes | PC 8

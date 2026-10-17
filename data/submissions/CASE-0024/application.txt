@@ -1,0 +1,15 @@
+COMMERCIAL INSURANCE APPLICATION (ACORD 125 FORMAT - SYNTHETIC)
+Agency: Tri-State Insurance Group
+Producer Code: 16129
+
+Applicant Name: Gulfway Engineering LP
+Mailing Address: 663 Airport Way, Little Rock
+State of Domicile: AR
+Primary NAICS: 423710
+Year Established: 1994
+Revenues: 6,880,000
+Number of Employees: 32
+Lines Requested: Commercial Property | General Liability
+Requested Effective Date: 2027-01-01
+
+Remarks: Renewal marketing, incumbent non-renewing.

@@ -1,0 +1,5 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 6306 Commerce Dr | 2,540,000 | 1,130K | $180,000 | Joisted Masonry | 1961 | 100% | 06
+2 | 9398 Industrial Blvd | 3,380K | 1,310,000 | $930,000 | Non-combustible | 1966 | No | Class 6

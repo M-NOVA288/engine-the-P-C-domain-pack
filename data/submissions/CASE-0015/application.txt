@@ -1,0 +1,14 @@
+COMMERCIAL INSURANCE APPLICATION (ACORD 125 FORMAT - SYNTHETIC)
+Agency: Tri-State Insurance Group
+Producer Code: 57632
+
+Applicant Name: Frontier Holdings Corp.
+Mailing Address: 8847 Market St, Little Rock
+Mailing State: AR
+Primary NAICS: 3ll8ll
+Years in Business: 1
+Employees: 9
+Lines Requested: Commercial Property | General Liability
+Requested Effective Date: 2027-01-01
+
+Remarks: Renewal marketing, incumbent non-renewing.

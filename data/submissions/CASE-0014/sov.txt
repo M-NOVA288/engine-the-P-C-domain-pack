@@ -1,0 +1,5 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 2307 Main St | $3,360,000 | $1,690,000 | 260K | Fire Resistive | 2000 | Y | 8
+2 | 2470 Airport Way | $8.62 million | 4,720K | $660,000 | Masonry NC | 2000 | Y | 6

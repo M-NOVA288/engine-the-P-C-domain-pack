@@ -1,0 +1,4 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 1883 Ranch Rd | 1.41M | $700,000 | $350,000 | Non-combustible | 2009 | No | PC 5

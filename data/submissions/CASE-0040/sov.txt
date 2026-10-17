@@ -1,0 +1,4 @@
+STATEMENT OF VALUES
+Loc # | Location | Building | BPP | Business Income | Const | Yr Built | Sprinkler | PC
+----------------------------------------
+1 | 3557 Ranch Rd | $11,470,000 | $6,140,000 | $1,310,000 | Masonry NC | 1963 | None | 5

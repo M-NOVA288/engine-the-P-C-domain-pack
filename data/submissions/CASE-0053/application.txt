@@ -1,0 +1,14 @@
+COMMERCIAL INSURANCE APPLICATION (ACORD 125 FORMAT - SYNTHETIC)
+Agency: Heartland Brokerage
+Producer Code: 83486
+
+Named Insured: Big Sky Bakery Corp.
+Mailing Address: 576 Main St, Albuquerque
+Mailing State: NM
+NAICS Code: 444110
+Years in Business: 17
+Employees: 153
+Lines Requested: Commercial Property | General Liability
+Requested Effective Date: 2027-01-01
+
+Remarks: Renewal marketing, incumbent non-renewing.

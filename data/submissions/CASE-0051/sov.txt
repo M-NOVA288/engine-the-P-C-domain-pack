@@ -1,0 +1,5 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 6071 Industrial Blvd | 8,300K | $1.51 million | 880,000 | Masonry NC | 1996 | No | PC 8
+2 | 3817 Main St | 2.61M | 1,500K | 470,000 | Masonry NC | 1970 | Yes | PC 3

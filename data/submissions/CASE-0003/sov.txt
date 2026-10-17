@@ -1,0 +1,4 @@
+STATEMENT OF VALUES
+Loc # | Location | Building | BPP | Business Income | Const | Yr Built | Sprinkler | PC
+----------------------------------------
+1 | 6074 Main St | $9,060,000 | 1,960,000 | $1,020,000 | Masonry NC | 1983 | Yes | PC 2

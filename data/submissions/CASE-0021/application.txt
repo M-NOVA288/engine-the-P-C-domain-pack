@@ -1,0 +1,15 @@
+COMMERCIAL INSURANCE APPLICATION (ACORD 125 FORMAT - SYNTHETIC)
+Agency: Heartland Brokerage
+Producer Code: 88277
+
+Applicant Name: Sabine Holdings Co.
+Mailing Address: 5751 Commerce Dr, Springfield
+Mailing State: MO
+NAICS Code: 325920
+Years in Business: 18
+Revenues: 4,040K
+Employees: 37
+Lines Requested: Commercial Property | General Liability
+Requested Effective Date: 2027-01-01
+
+Remarks: New venture expansion, see attached SOV.

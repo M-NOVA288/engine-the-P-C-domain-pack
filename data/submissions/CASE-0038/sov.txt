@@ -1,0 +1,5 @@
+STATEMENT OF VALUES
+Loc # | Location | Building | BPP | Business Income | Const | Yr Built | Sprinkler | PC
+----------------------------------------
+1 | 8236 Market St | 2,600,000 | 710,000 | $340,000 | Frame | 2013 | 100% | Class 4
+TOTAL |  | 2,600,000 | 710,000 | 340,000 |  |  |  | 

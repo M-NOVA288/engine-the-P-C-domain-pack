@@ -1,0 +1,5 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 5080 Airport Way | $4.30 million | $1.33 million | $960,000 | Non-combustible | 1953 | 100% | PC 1
+TOTAL |  | 4,300,000 | 1,330,000 | 960,000 |  |  |  | 

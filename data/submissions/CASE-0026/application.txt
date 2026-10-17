@@ -1,0 +1,15 @@
+COMMERCIAL INSURANCE APPLICATION (ACORD 125 FORMAT - SYNTHETIC)
+Agency: Tri-State Insurance Group
+Producer Code: 48001
+
+Applicant Name: Sabine Holdings Inc.
+Mailing Address: 8372 Industrial Blvd, Little Rock
+State of Domicile: AR
+NAICS Code: 531120
+Years in Business: 2
+Revenues: 11.17M
+Employees: 64
+Lines Requested: Commercial Property | General Liability
+Requested Effective Date: 2027-01-01
+
+Remarks: New venture expansion, see attached SOV.

@@ -1,0 +1,5 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 7079 Main St | 1.48M | $660,000 | $120,000 | Masonry NC | 1993 | Y | 01
+2 | 2852 Commerce Dr | $2.51 million | 540,000 | $490,000 | Masonry NC | 2020 | N | PC 4

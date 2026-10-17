@@ -1,0 +1,6 @@
+STATEMENT OF VALUES
+Loc # | Location | Building | BPP | Business Income | Const | Yr Built | Sprinkler | PC
+----------------------------------------
+1 | 4547 Commerce Dr | $730,000 | $380,000 | $210,000 | Joisted Masonry | 2007 | N | 06
+2 | 6561 Commerce Dr | 1,690K | $880,000 | $420,000 | Frame | 1979 | None | PC 5
+TOTAL |  | 2,420,000 | 1,260,000 | 630,000 |  |  |  | 

@@ -1,0 +1,5 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 2748 Main St | $3,340,000 | 1.53M | 510K | Frame | 1986 | None | PC 3
+TOTAL |  | 3,340,000 | 1,530,000 | 510,000 |  |  |  | 

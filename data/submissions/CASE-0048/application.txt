@@ -1,0 +1,15 @@
+COMMERCIAL INSURANCE APPLICATION (ACORD 125 FORMAT - SYNTHETIC)
+Agency: Heartland Brokerage
+Producer Code: 35169
+
+Applicant Name: Cimarron Kitchen & Bar LLC
+Mailing Address: 1391 Main St, Austin
+Mailing State: TX
+NAICS Code: 444110
+Year Established: 2017
+Revenues: 33,780K
+Number of Employees: 181
+Lines Requested: Commercial Property | General Liability
+Requested Effective Date: 2027-01-01
+
+Remarks: New venture expansion, see attached SOV.

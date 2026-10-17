@@ -1,0 +1,15 @@
+COMMERCIAL INSURANCE APPLICATION (ACORD 125 FORMAT - SYNTHETIC)
+Agency: Heartland Brokerage
+Producer Code: 92989
+
+Applicant Name: Red River Group Inc.
+Mailing Address: 288 Industrial Blvd, Wichita
+Mailing State: KS
+Primary NAICS: 311811
+Years in Business: 10
+Annual Revenue: 8.44M
+Employees: 75
+Lines Requested: Commercial Property | General Liability
+Requested Effective Date: 2027-01-01
+
+Remarks: Renewal marketing, incumbent non-renewing.

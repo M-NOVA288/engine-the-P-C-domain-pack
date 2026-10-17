@@ -1,0 +1,6 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 4584 Market St | 890,000 | $480,000 | 160,000 | Frame | 2002 | Yes | Class 3
+2 | 8490 Ranch Rd | 3,260K | $590,000 | 170,000 | Non-combustible | 1975 | No | 04
+3 | 4224 Main St | 2,810K | 1.28M | $740,000 | Non-combustible | 1974 | Yes | Class 6

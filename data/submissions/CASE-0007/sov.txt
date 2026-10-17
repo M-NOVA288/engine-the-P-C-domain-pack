@@ -1,0 +1,6 @@
+STATEMENT OF VALUES
+Loc # | Location | Building | BPP | Business Income | Const | Yr Built | Sprinkler | PC
+----------------------------------------
+1 | 7740 Airport Way | 3,160,000 | 1.59M | $630,000 | Joisted Masonry | 2006 | No | 2
+2 | 7848 Main St | $440,000 | 230K | 120,000 | Fire Resistive | 2006 | None | Class 4
+3 | 4501 Oak Ave | $2,120,000 | $1,090,000 | 110,000 | Joisted Masonry | 2011 | None | 5

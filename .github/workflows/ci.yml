@@ -1,0 +1,26 @@
+name: ci
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test-and-gate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Regenerate synthetic data and retrain (reproducible, seeded)
+        run: |
+          python -m data.synth.generate --cases 60 --policies 6000 --seed 7
+          python -m models.train
+      - name: Unit tests
+        run: pytest -q
+      - name: Release gate (fails the build if quality drops)
+        run: python -m evals.run_evals --gate
+      - name: Publish eval report to the job summary
+        if: always()
+        run: cat evals/report.md >> "$GITHUB_STEP_SUMMARY"

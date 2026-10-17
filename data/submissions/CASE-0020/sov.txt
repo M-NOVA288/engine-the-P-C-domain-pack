@@ -1,0 +1,6 @@
+STATEMENT OF VALUES
+Loc # | Location | Building | BPP | Business Income | Const | Yr Built | Sprinkler | PC
+----------------------------------------
+1 | 7797 Market St | $3,570,000 | $590,000 | 200,000 | Frame | 1997 | No | PC 2
+2 | 6947 Oak Ave | 11,760K | 5,860K | $1.83 million | Fire Resistive | 1985 | 100% | 01
+TOTAL |  | 15,330,000 | 6,450,000 | 2,030,000 |  |  |  | 

@@ -1,0 +1,7 @@
+STATEMENT OF VALUES
+Loc # | Location | Building | BPP | Business Income | Const | Yr Built | Sprinkler | PC
+----------------------------------------
+1 | 726 Ranch Rd | $2,610,000 | 1,090,000 | $660,000 | Masonry NC | 1964 | Yes | 09
+2 | 3133 Ranch Rd | $3.35 million | 1,090,000 | $380,000 | Non-combustible | 1991 | Y | Class 4
+3 | 9079 Oak Ave | 2,930,000 | 1,460K | 590,000 | Fire Resistive | 1980 | No | PC 6
+4 | 8849 Main St | $930,000 | 450K | $100,000 | Masonry NC | 1927 | Yes | 05

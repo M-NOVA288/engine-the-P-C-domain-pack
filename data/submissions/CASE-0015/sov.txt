@@ -1,0 +1,5 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 654 Main St | 490,000 | $250,000 | 30K | Fire Resistive | 2020 | Y | PC 4
+TOTAL |  | 490,000 | 250,000 | 30,000 |  |  |  | 

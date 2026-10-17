@@ -1,0 +1,15 @@
+COMMERCIAL INSURANCE APPLICATION (ACORD 125 FORMAT - SYNTHETIC)
+Agency: Southwest Risk Partners
+Producer Code: 56682
+
+Named Insured: Cedar Holdings Inc.
+Mailing Address: 8548 Main St, Little Rock
+Mailing State: AR
+Primary NAICS: 7l394O
+Date Business Started: 1981
+Revenues: 22,090K
+Employees: 119
+Lines Requested: Commercial Property | General Liability
+Requested Effective Date: 2027-01-01
+
+Remarks: New venture expansion, see attached SOV.

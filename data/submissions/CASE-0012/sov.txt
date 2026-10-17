@@ -1,0 +1,6 @@
+STATEMENT OF VALUES
+Loc # | Location | Building | BPP | Business Income | Const | Yr Built | Sprinkler | PC
+----------------------------------------
+1 | 5149 Ranch Rd | $320,000 | 180K | 50K | Joisted Masonry | 1985 | None | 04
+2 | 7420 Ranch Rd | 350K | $140,000 | 70,000 | Joisted Masonry | 1965 | N | Class 7
+TOTAL |  | 670,000 | 320,000 | 120,000 |  |  |  | 

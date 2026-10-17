@@ -1,0 +1,6 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 3351 Airport Way | 430K | 70K | $130,000 | Non-combustible | 1980 | Yes | Class 3
+2 | 5177 Market St | 2.28M | 750K | $280,000 | Fire Resistive | 1960 | No | 04
+3 | 5871 Ranch Rd | 2,720,000 | $710,000 | $760,000 | Non-combustible | 2016 | None | 6

@@ -1,0 +1,15 @@
+COMMERCIAL INSURANCE APPLICATION (ACORD 125 FORMAT - SYNTHETIC)
+Agency: Heartland Brokerage
+Producer Code: 47733
+
+Applicant Name: Sandia Services Inc.
+Mailing Address: 3722 Main St, Austin
+State of Domicile: TX
+Primary NAICS: 562111
+Years in Business: 7
+Revenues: $510,000
+Number of Employees: 3
+Lines Requested: Commercial Property | General Liability
+Requested Effective Date: 2027-01-01
+
+Remarks: Renewal marketing, incumbent non-renewing.

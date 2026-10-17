@@ -1,0 +1,13 @@
+LOSS RUN REPORT - Carrier: Example Casualty Co.
+Valued as of: 2026-09-30
+
+Policy Year | Earned Premium | Claims | Paid | Reserves | Incurred
+----------------------------------------
+2024-2025 | $5,200 | 0 | 0 | 0 | 0
+2025-2026 | 5K | 2 | 1,600 | 500 | 2,100
+
+Claim Detail
+Date of Loss | Cause | Incurred | Status
+----------------------------------------
+2026-02-23 | Slip and fall | 1,000 | Open
+2025-08-06 | Theft | 1,100 | Closed

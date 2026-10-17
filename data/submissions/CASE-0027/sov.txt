@@ -1,0 +1,5 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 6446 Industrial Blvd | 640K | $120,000 | $60,000 | Frame | 2012 | N | Class 4
+TOTAL |  | 640,000 | 120,000 | 60,000 |  |  |  | 

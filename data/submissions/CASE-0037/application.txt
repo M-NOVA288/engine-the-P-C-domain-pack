@@ -1,0 +1,15 @@
+COMMERCIAL INSURANCE APPLICATION (ACORD 125 FORMAT - SYNTHETIC)
+Agency: Heartland Brokerage
+Producer Code: 26126
+
+Named Insured: Cedar Mechanical LP
+Mailing Address: 2620 Market St, Albuquerque
+State of Domicile: NM
+Primary NAICS: 713940
+Years in Business: 31
+Gross Sales: 12.30M
+Number of Employees: 58
+Lines Requested: Commercial Property | General Liability
+Requested Effective Date: 2027-01-01
+
+Remarks: New venture expansion, see attached SOV.

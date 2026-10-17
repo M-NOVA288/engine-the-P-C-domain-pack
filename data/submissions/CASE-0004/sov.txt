@@ -1,0 +1,7 @@
+STATEMENT OF VALUES
+Loc # | Location | Building | BPP | Business Income | Const | Yr Built | Sprinkler | PC
+----------------------------------------
+1 | 1838 Ranch Rd | 2,700,000 | $990,000 | $260,000 | Masonry NC | 1981 | No | 8
+2 | 1701 Ranch Rd | 1,580K | $910,000 | 370,000 | Joisted Masonry | 1968 | N | Class 10
+3 | 5434 Ranch Rd | 2.26M | $950,000 | $380,000 | Frame | 1969 | Y | 02
+4 | 7511 Ranch Rd | 1.99M | 1,130K | $320,000 | Fire Resistive | 2012 | Y | 01

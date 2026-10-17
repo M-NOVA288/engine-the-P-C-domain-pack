@@ -1,0 +1,4 @@
+STATEMENT OF VALUES
+Loc # | Location | Building | BPP | Business Income | Const | Yr Built | Sprinkler | PC
+----------------------------------------
+1 | 6660 Main St | $7,560,000 | 1,700,000 | $1,140,000 | Masonry NC | 1968 | Yes | PC 7

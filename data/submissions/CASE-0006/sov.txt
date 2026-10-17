@@ -1,0 +1,4 @@
+STATEMENT OF VALUES
+Loc # | Location | Building | BPP | Business Income | Const | Yr Built | Sprinkler | PC
+----------------------------------------
+1 | 8337 Market St | $870,000 | $270,000 | $50,000 | Joisted Masonry | 1960 | Y | 9

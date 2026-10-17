@@ -1,0 +1,15 @@
+COMMERCIAL INSURANCE APPLICATION (ACORD 125 FORMAT - SYNTHETIC)
+Agency: Tri-State Insurance Group
+Producer Code: 15183
+
+Applicant Name: Summit Services Corp.
+Mailing Address: 2158 Industrial Blvd, Pueblo
+Mailing State: CO
+Primary NAICS: 423710
+Date Business Started: 2000
+Revenues: 5,060K
+Employees: 23
+Lines Requested: Commercial Property | General Liability
+Requested Effective Date: 2027-01-01
+
+Remarks: Renewal marketing, incumbent non-renewing.

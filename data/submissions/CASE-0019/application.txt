@@ -1,0 +1,15 @@
+COMMERCIAL INSURANCE APPLICATION (ACORD 125 FORMAT - SYNTHETIC)
+Agency: Tri-State Insurance Group
+Producer Code: 21478
+
+Applicant Name: Arbor Properties LP
+Mailing Address: 6635 Market St, Austin
+State of Domicile: TX
+NAICS Code: 541330
+Years in Business: 6
+Annual Revenue: 10,960,000
+Employees: 114
+Lines Requested: Commercial Property | General Liability
+Requested Effective Date: 2027-01-01
+
+Remarks: Renewal marketing, incumbent non-renewing.

@@ -1,0 +1,17 @@
+[
+  {"question": "What's the most TIV we can write on one account?", "expected": "3.1"},
+  {"question": "Can we quote a fireworks or explosives manufacturer?", "expected": "2.3"},
+  {"question": "Insured is in protection class 10 but fully sprinklered, what do I do?", "expected": "3.2"},
+  {"question": "Building is from 1948, is that a problem?", "expected": "3.3"},
+  {"question": "Loss ratio came in at 80 percent over five years", "expected": "4.1"},
+  {"question": "They had one big fire claim of 400k two years ago", "expected": "4.2"},
+  {"question": "Broker only sent two years of loss runs", "expected": "4.3"},
+  {"question": "Startup that opened last year, can we write it?", "expected": "5.1"},
+  {"question": "Applicant is based in Florida", "expected": "5.2"},
+  {"question": "Submission is missing the revenue figure", "expected": "6.1"},
+  {"question": "Waste hauling company submission", "expected": "2.2"},
+  {"question": "Class code isn't in the appetite guide at all", "expected": "2.4"},
+  {"question": "The model says 30% chance of a large loss but everything else is clean", "expected": "7.1"},
+  {"question": "Which industries are we actively looking to write?", "expected": "2.1"},
+  {"question": "Who has authority to bind and when do I need a senior underwriter?", "expected": "1"}
+]

@@ -1,0 +1,15 @@
+COMMERCIAL INSURANCE APPLICATION (ACORD 125 FORMAT - SYNTHETIC)
+Agency: Southwest Risk Partners
+Producer Code: 32541
+
+Named Insured: Lone Star Logistics Co.
+Mailing Address: 5838 Oak Ave, Austin
+State of Domicile: TX
+NAICS Code: 722511
+Years in Business: 12
+Gross Sales: $20,640,000
+Employees: 145
+Lines Requested: Commercial Property | General Liability
+Requested Effective Date: 2027-01-01
+
+Remarks: New venture expansion, see attached SOV.

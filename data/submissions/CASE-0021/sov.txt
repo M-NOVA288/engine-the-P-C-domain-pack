@@ -1,0 +1,5 @@
+STATEMENT OF VALUES
+Loc # | Location | Building | BPP | Business Income | Const | Yr Built | Sprinkler | PC
+----------------------------------------
+1 | 7078 Main St | 2,230K | 1.23M | $560,000 | Frame | 1960 | Y | 03
+TOTAL |  | 2,230,000 | 1,230,000 | 560,000 |  |  |  | 

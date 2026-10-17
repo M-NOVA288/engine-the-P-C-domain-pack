@@ -1,0 +1,5 @@
+STATEMENT OF VALUES
+Loc # | Location | Building | BPP | Business Income | Const | Yr Built | Sprinkler | PC
+----------------------------------------
+1 | 210 Airport Way | 1,220K | 430K | 270K | Fire Resistive | 1984 | Yes | PC 5
+2 | 8896 Commerce Dr | $1,270,000 | 460K | $320,000 | Fire Resistive | 1946 | Yes | PC 4

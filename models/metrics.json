@@ -1,0 +1,18 @@
+{
+  "n_train": 4500,
+  "n_test": 1500,
+  "base_rate": 0.1275,
+  "auc": 0.8025,
+  "brier": 0.0906,
+  "coefficients": {
+    "hazard_medium": 0.264,
+    "hazard_high": 0.491,
+    "log_tiv": 0.105,
+    "protection_class": 0.243,
+    "sprinklered": -0.412,
+    "building_age": 0.586,
+    "prior_claims_5y": 0.631,
+    "years_in_business": -0.445,
+    "log_revenue": 0.08
+  }
+}

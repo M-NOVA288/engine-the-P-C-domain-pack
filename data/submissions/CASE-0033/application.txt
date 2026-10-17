@@ -1,0 +1,15 @@
+COMMERCIAL INSURANCE APPLICATION (ACORD 125 FORMAT - SYNTHETIC)
+Agency: Heartland Brokerage
+Producer Code: 56789
+
+Named Insured: Sabine Industries Co.
+Mailing Address: 1209 Airport Way, Baton Rouge
+State of Domicile: LA
+Primary NAICS: 311811
+Date Business Started: 2001
+Gross Sales: 9.62M
+Employees: 78
+Lines Requested: Commercial Property | General Liability
+Requested Effective Date: 2027-01-01
+
+Remarks: Renewal marketing, incumbent non-renewing.

@@ -1,0 +1,14 @@
+COMMERCIAL INSURANCE APPLICATION (ACORD 125 FORMAT - SYNTHETIC)
+Agency: Tri-State Insurance Group
+Producer Code: 65763
+
+Applicant Name: Gulfway Engineering Inc.
+Mailing Address: 4740 Main St, Pueblo
+Mailing State: CO
+Primary NAICS: 238220
+Year Established: 1983
+Number of Employees: 65
+Lines Requested: Commercial Property | General Liability
+Requested Effective Date: 2027-01-01
+
+Remarks: Renewal marketing, incumbent non-renewing. Insured reports sales of roughly $11,330,000 last fiscal year.

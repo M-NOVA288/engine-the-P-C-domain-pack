@@ -1,0 +1,15 @@
+COMMERCIAL INSURANCE APPLICATION (ACORD 125 FORMAT - SYNTHETIC)
+Agency: Heartland Brokerage
+Producer Code: 89041
+
+Named Insured: Cedar Fabrication LLC
+Mailing Address: 203 Main St, Little Rock
+State of Domicile: AR
+NAICS Code: 722511
+Years in Business: 23
+Gross Sales: $35,270,000
+Employees: 161
+Lines Requested: Commercial Property | General Liability
+Requested Effective Date: 2027-01-01
+
+Remarks: Renewal marketing, incumbent non-renewing.

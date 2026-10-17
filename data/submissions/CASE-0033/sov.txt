@@ -1,0 +1,4 @@
+STATEMENT OF VALUES
+Loc # | Location | Building | BPP | Business Income | Const | Yr Built | Sprinkler | PC
+----------------------------------------
+1 | 3981 Market St | 3,140,000 | $1,420,000 | 470,000 | Non-combustible | 2009 | Yes | Class 3

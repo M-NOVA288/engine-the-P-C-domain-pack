@@ -1,0 +1,5 @@
+STATEMENT OF VALUES
+Loc # | Location | Building | BPP | Business Income | Const | Yr Built | Sprinkler | PC
+----------------------------------------
+1 | 9444 Oak Ave | $3,310,000 | $1.10 million | $730,000 | Masonry NC | 1955 | Yes | 04
+2 | 8682 Commerce Dr | 2,450,000 | 600,000 | $680,000 | Joisted Masonry | 1990 | 100% | Class 8

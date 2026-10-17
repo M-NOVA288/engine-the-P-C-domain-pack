@@ -1,0 +1,15 @@
+COMMERCIAL INSURANCE APPLICATION (ACORD 125 FORMAT - SYNTHETIC)
+Agency: Tri-State Insurance Group
+Producer Code: 52406
+
+Applicant Name: Big Sky Kitchen & Bar LP
+Mailing Address: 664 Commerce Dr, Fresno
+Mailing State: CA
+Primary NAICS: 54l33O
+Years in Business: 16
+Gross Sales: 2,810K
+Employees: 27
+Lines Requested: Commercial Property | General Liability
+Requested Effective Date: 2027-01-01
+
+Remarks: New venture expansion, see attached SOV.

@@ -1,0 +1,7 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 4156 Market St | $2.23 million | $810,000 | $270,000 | Non-combustible | 2010 | No | PC 4
+2 | 3970 Commerce Dr | $1,800,000 | $310,000 | 340,000 | Frame | 2012 | Y | 6
+3 | 3301 Oak Ave | $1,980,000 | $550,000 | $470,000 | Joisted Masonry | 1947 | None | 04
+4 | 7225 Commerce Dr | $3,390,000 | 1,410,000 | 980,000 | Joisted Masonry | 1996 | Yes | PC 3

@@ -1,0 +1,5 @@
+STATEMENT OF VALUES
+Loc | Address | Building Value | Contents Value | BI Value | Construction | Year Built | Sprinklered | Protection Class
+----------------------------------------
+1 | 7504 Commerce Dr | $2,340,000 | $620,000 | 340K | Non-combustible | 1929 | None | PC 4
+2 | 1581 Market St | 2.16M | $430,000 | $270,000 | Masonry NC | 2021 | No | PC 3

@@ -1,0 +1,19 @@
+# Core (local mode, no cloud keys needed)
+pydantic>=2.6
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+joblib>=1.3
+
+# API
+fastapi>=0.110
+uvicorn>=0.29
+
+# Dev
+pytest>=8.0
+httpx>=0.27
+
+# Azure mode (optional): uncomment to use Azure OpenAI and Azure AI Search
+# openai>=1.40
+# azure-search-documents>=11.4
+# azure-ai-documentintelligence>=1.0

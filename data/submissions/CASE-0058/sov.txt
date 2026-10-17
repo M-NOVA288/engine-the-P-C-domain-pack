@@ -1,0 +1,5 @@
+STATEMENT OF VALUES
+Loc # | Location | Building | BPP | Business Income | Const | Yr Built | Sprinkler | PC
+----------------------------------------
+1 | 5907 Ranch Rd | 1,170K | 620K | $330,000 | Fire Resistive | 1925 | Yes | PC 2
+2 | 9180 Market St | 2,470,000 | $530,000 | $410,000 | Joisted Masonry | 1994 | 100% | Class 6
